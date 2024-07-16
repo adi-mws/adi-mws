@@ -17,7 +17,7 @@ Hi, I'm Aditya Raj, a second-year BCA student specializing in Computer Science. 
 - **Frontend Development**:
   - React.js
   - HTML, CSS, JavaScript
-  - 
+
 - **Programming Languages**:
   - C++ (for DSA)
   - Python
