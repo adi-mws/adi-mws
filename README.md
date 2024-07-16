@@ -38,7 +38,7 @@ I enjoy designing web pages and user interfaces, leveraging tools like Figma to 
 
 ## Future Goals
 
-I am focused on learning and mastering the MERN stack to enhance my full-stack development capabilities. I also aim to deepen my knowledge in web design and continue exploring new technologies and tools that can help me grow as a developer.
+I am focused on learning and mastering the MERN stack to enhance my full-stack development capabilities. I also aim to deepen my knowledge in web design and continue exploring new technologies and tools that can help me grow as a developer. I am also a game development enthusiast which makes me dive deeper in C++ programming. 
 
 ## Get in Touch
 
