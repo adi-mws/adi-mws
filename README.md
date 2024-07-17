@@ -45,7 +45,7 @@ I am focused on learning and mastering the MERN stack to enhance my full-stack d
 I'm always open to connecting with like-minded individuals, collaborating on projects, or just having a chat about technology and development.
 
 - **Email**: [aditya040mth@gmail.com]
-- **LinkedIn**: [inkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/aditya-raj-6409b8307)
 - **GitHub**: [GitHub Profile](https://github.com/adi-mws)
 
 Feel free to reach out if you have any questions or opportunities you'd like to discuss. Looking forward to learning new things and making a bright future together!
