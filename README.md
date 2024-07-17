@@ -5,7 +5,7 @@ Hi, I'm Aditya Raj, a second-year BCA student specializing in Computer Science. 
 ## About Me
 
 - **Education**: BCA, Second Year, Computer Science
-- **Interests**: Web Development, Design, Data Structures and Algorithms (DSA)
+- **Interests**: Web Development, Game Development, Design, Data Structures and Algorithms (DSA)
 
 ## Technological Skills
 
