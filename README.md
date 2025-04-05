@@ -13,6 +13,8 @@ Hi, I'm Aditya Raj, a second-year BCA student specializing in Computer Science. 
   - Django
   - Django Rest Framework
   - Node.js
+  - Express.js
+  - Mongo DB
 
 - **Frontend Development**:
   - React.js
