@@ -3,7 +3,7 @@
 <h1 align="center">✨ Hey, I'm Aditya Raj (adi-mws) 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Full-Stack+Web+Developer+%7C+AI%2FML+Explorer+%7C+Creative+Problem+Solver;3rd+Year+BCA+Student+%7C+Building+CURAlink+%E2%9A%95;Lover+of+Clean+UIs%2C+Smart+Backends+%26+Curious+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Full-Stack+Web+Developer+%7C+AI%2FML+Explorer;3rd+Year+BCA+Student+%7C+Creative+Problem+Solver+%E2%9A%95;Lover+of+Clean+UIs%2C+Smart+Backends+%26+Curious+Technologies" alt="Typing SVG" />
 </p>
 
 <p align="center">
