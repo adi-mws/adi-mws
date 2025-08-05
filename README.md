@@ -30,47 +30,9 @@
 
 ## 🚀 Projects
 
-### 🔴 **CURAlink** – Online Consultancy Platform  
-- 📡 Built with MERN + Socket.io  
-- 🧠 3 User Dashboards (Patient | Doctor | Admin)  
-- 💬 Real-time communication, profile management, appointment control, and more
-
 ### 🛡️ **HHFC Trust Website** – [hhfc.in](https://hhfc.in)  
 - 🌐 Non-profit education platform for slum kids
 - 🧑‍💻 Fully developed and maintained by me
-
----
-
-## 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adi-mws&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adi-mws&theme=tokyonight" width="48%" />
-</p>
-
----
-
-## 📊 Developer Journey Graphs
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adi-mws&theme=tokyonight" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adi-mws&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adi-mws&theme=tokyonight" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adi-mws&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adi-mws&theme=tokyonight&utcOffset=5.5" />
-</p>
-
----
-
-## 📈 Contribution Heatmap
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adi-mws&theme=tokyo-night&bg_color=00000000&color=00ffff&line=00ffff&point=ffffff&hide_border=true" />
-</p>
-
----
 
 ## 🧩 UI & Dev Tools I Love
 
