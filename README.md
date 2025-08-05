@@ -37,7 +37,7 @@
 ## 🧩 UI & Dev Tools I Love
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,django,figma,tailwind,git,github,vscode,cpp,python,js" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,django,figma,tailwind,git,motion,gsap,flask,github,vscode,cpp,python,js" />
 </p>
 
 ---
