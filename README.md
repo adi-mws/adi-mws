@@ -37,7 +37,13 @@
 ## 🧩 UI & Dev Tools I Love
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,django,figma,tailwind,git,motion,gsap,flask,github,vscode,cpp,python,js" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,django,figma,tailwind,git,flask,github,vscode,cpp,python,js" />
+</p>
+
+<!-- GSAP & Framer Motion (manually added) -->
+<p align="center">
+  <img src="https://assets.codepen.io/16327/gsap-logo.svg" alt="GSAP" height="40" style="margin-right: 20px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Framer Motion" height="40" />
 </p>
 
 ---
@@ -52,21 +58,7 @@
     <img alt="Email" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 ---
-
-## 🧩 UI & Dev Tools I Love
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,django,figma,tailwind,git,flask,github,vscode,cpp,python,js" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Framer Motion" width="40" height="40" style="margin-right: 15px;" />
-  <img src="https://assets.codepen.io/16327/gsap-logo.svg" alt="GSAP" width="100" height="40" />
-</p>
-
-
 <p align="center">
   <i>“Good code solves problems. Great code solves problems **and** tells a story.”</i><br/>
   <b>Let’s build that story — one commit at a time 🚀</b>
