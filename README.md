@@ -55,6 +55,18 @@
 
 ---
 
+## 🧩 UI & Dev Tools I Love
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,django,figma,tailwind,git,flask,github,vscode,cpp,python,js" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Framer Motion" width="40" height="40" style="margin-right: 15px;" />
+  <img src="https://assets.codepen.io/16327/gsap-logo.svg" alt="GSAP" width="100" height="40" />
+</p>
+
+
 <p align="center">
   <i>“Good code solves problems. Great code solves problems **and** tells a story.”</i><br/>
   <b>Let’s build that story — one commit at a time 🚀</b>
