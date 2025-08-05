@@ -40,11 +40,14 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,django,figma,tailwind,git,flask,github,vscode,cpp,python,js" />
 </p>
 
-<!-- GSAP & Framer Motion (manually added) -->
 <p align="center">
-  <img src="https://assets.codepen.io/16327/gsap-logo.svg" alt="GSAP" height="40" style="margin-right: 20px;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Framer Motion" height="40" />
+  <!-- GSAP with GreenSock Mascot -->
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gsap.svg" alt="GSAP" height="50" style="margin-right: 20px;" />
+  
+  <!-- Framer Motion -->
+  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Framer Motion" height="50" />
 </p>
+
 
 ---
 
