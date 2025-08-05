@@ -15,9 +15,7 @@
 ## 🧠 About Me
 
 - 🎓 Final Year BCA student deeply curious about **Web Technologies**, **AI/ML**, and **Creative Problem Solving**
-- 🛠 Part-time **Web Developer** at [HHFC Trust](https://hhfc.in) – (Developed the entire site solo 💪)
-- 🔭 Currently working on **CuraLink**, an advanced **MERN + Socket.io** based **Online Consultancy Platform**
-- 🚀 Curalink is my biggest group project — includes **3-level Dashboards** for Patient, Admin, and Doctor
+- 🛠 Part-time **Web Developer** at [HHFC Trust](https://hhfc.in)
 - ⚡ I believe in **building real-world solutions** that balance performance and visual delight
 
 ---
