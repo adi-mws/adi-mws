@@ -41,10 +41,7 @@
 </p>
 
 <p align="center">
-  <!-- GreenShock mascot + GSAP text -->
   <img src="https://worldvectorlogo.com/logo/gsap-greensock" alt="GSAP GreenShock Logo" height="50" style="margin-right: 20px;" />
-  
-  <!-- Framer Motion -->
   <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Framer Motion Logo" height="50" />
 </p>
 
