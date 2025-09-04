@@ -24,7 +24,7 @@
 
 | Languages       | Frontend                  | Backend                    | Database        | Dev & Tools                 |
 |-----------------|---------------------------|----------------------------|------------------|-----------------------------|
-| JavaScript, Python, C++ | React.js, HTML, TailwindCSS, Figma | Node.js, Express, Django | MongoDB, MySQL | Git, GitHub, Postman, VSCode |
+| JavaScript, Python, C++ | React.js, HTML, TailwindCSS, Figma, MUI | Node.js, Express, Django | MongoDB, MySQL, SQLite | Git, GitHub, Postman, VSCode |
 
 ---
 
