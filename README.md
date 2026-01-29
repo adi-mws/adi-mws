@@ -24,7 +24,7 @@
 
 | Languages       | Frontend                  | Backend                    | Database        | Dev & Tools                 |
 |-----------------|---------------------------|----------------------------|------------------|-----------------------------|
-| JavaScript, Python, C++ | React.js, HTML, TailwindCSS, Figma, MUI | Node.js, Express, Django | MongoDB, MySQL, SQLite | Git, GitHub, Postman, VSCode, Cursor |
+| JavaScript, Python, C++ | React.js, HTML, TailwindCSS, Figma, MUI | Node.js, Express, Django, Next.js | MongoDB, Oracle SQL, PostgreSQL SQLite | Git, GitHub, Postman |
 
 ---
 
@@ -34,10 +34,13 @@
 - 🌐 Non-profit education platform for slum kids
 - 🧑‍💻 Fully developed and maintained by me
 
-## 🧩 UI & Dev Tools I Love
+### FlashChat
+- A real time one to one chat application created with socket.io
+- Search by username send friend request and start chatting.
 
+## 🧩 UI & Dev Tools I Love
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,django,figma,tailwind,git,flask,github,vscode,cpp,python,js" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,express,mongodb,django,figma,tailwind,git,flask,github,vscode,cpp,python,js" />
 </p>
 
 <p align="center">
