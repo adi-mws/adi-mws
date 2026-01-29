@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-- 🎓 Final Year BCA student deeply curious about **Web Technologies**, **AI/ML**, and **Creative Problem Solving**
+- 🎓 Final Year BCA student deeply curious about **Web Technologies**, **Agentic AI**, and **Creative Problem Solving**
 - 🛠 Part-time **Web Developer** at [HHFC Trust](https://hhfc.in)
 - ⚡ I believe in **building real-world solutions** that balance performance and visual delight
 
